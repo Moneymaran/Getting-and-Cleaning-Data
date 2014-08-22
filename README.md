@@ -12,6 +12,8 @@ It takes the given train and test data sets and does the following:
 
 It finally writes out the output to a .txt file.
 
+
+##README accompanying the data set.
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
